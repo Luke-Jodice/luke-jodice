@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">👩‍💻  About Me</h5>
+<h5 align="center">👩‍💻  About Me</h5>
 
 ###
 
@@ -16,12 +16,11 @@
 
 ###
 
-<h6 align="left">🔥   My Stats :</h6>
+<h6 align="center">🔥   My Stats :</h6>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luke-jodice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luke-jodice&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luke-jodice&theme=github-dark" height="150" alt="activity-graph graph"  />
 </div>
