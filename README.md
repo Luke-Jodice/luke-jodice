@@ -7,7 +7,6 @@
 
 <h5 align="left">I'm from Massachusetts<br><br>- 🔭 I’m currently working as Technical Support Representative<br>- 📚 I'm currently learning Typescript, Docker, and Swift<br>- ⚡ In my free time I building out solutions for problems that I run into on my daily life</h5>
 
-
 ###
 
 <div align="left">
@@ -21,5 +20,3 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
