@@ -5,7 +5,7 @@
 <h2 align="center">Hello 👋 My name is Luke</h2>
 <h3 align="center">Welcome to my Github profile</h3>
 
-<h5 align="left">I'm from Massachusetts<br><br>- 🔭 I’m currently working as Technical Support Representative<br>- 📚 I'm currently learning Typescript, Docker, and Swift<br>- ⚡ In my free time I building out solutions for problems that I run into on my daily life</h5>
+<h4 align="left">- 🔭 I’m currently working as Technical Support Representative<br>- 📚 I'm currently learning Typescript, Docker, and Swift<br>- ⚡ In my free time I am trying to build cool projects mimicking real world infrastructure</h4>
 
 ###
 
