@@ -2,28 +2,11 @@
   <img height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5cjhpc3F1eWxia2JzaXJ0NW03ZW1kc2s0dDJheTZua2VlaWZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mRXWDrUP344MpVGw/giphy.gif"  />
 </div>
 
-###
+<h2 align="center">Hello 👋 My name is Luke</h2>
+<h3 align="center">Welcome to my Github profile</h3>
 
-<h4 align="center">Welcome to my Github Profile</h4>
+<h5 align="left">I'm from Massachusetts<br><br>- 🔭 I’m currently working as Technical Support Representative<br>- 📚 I'm currently learning Typescript, Docker, and Swift<br>- ⚡ In my free time I building out solutions for problems that I run into on my daily life</h5>
 
-###
-
-<h5 align="center">👩‍💻  About Me</h5>
-
-###
-
-<h6 align="left">I'm Luke from Massachusetts<br><br>- 🔭 I’m currently working as Technical Support Representative<br>- 📚 I'm currently learning Typescript, Docker, and Swift<br>- ⚡ In my free time I building out solutions for problems that I run into on my daily life</h6>
-
-###
-
-<h6 align="center">🔥   My Stats :</h6>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luke-jodice&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luke-jodice&theme=github-dark" height="150" alt="activity-graph graph"  />
-</div>
 
 ###
 
